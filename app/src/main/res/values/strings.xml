@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registration at Phadeeyar Event</string>
+    <string name="action_settings">Settings</string>
+    <string name="dummy_text">Want to learn more about the Internet of Things? It is an emerging new field of technology which will allow devices, vehicles, buildings and other \"things\" to be all networked together. \n\nWe are hosting a panel of local and international experts on the topic to discuss about \"Potential of the Internet of Things in Myanmar\" on Thursday, 25th February, from 6 to 8pm. This seminar is open to everyone and you don\'t need to have any technical background to come.</string>
+
+    <string-array name="calendar_array">
+        <item>Google Calendar</item>
+        <item>iCal</item>
+        <item>Microsoft Calendar</item>
+    </string-array>
+</resources>
